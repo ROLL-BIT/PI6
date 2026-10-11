@@ -1,0 +1,11 @@
+NumeroSerie,EmpresaID,Descrição,Observações
+EQ1000,1,Inversor de Frequência,Manutenção preventiva
+EQ1001,2,PLC Siemens S7,Falha de comunicação
+EQ1002,3,Motor Elétrico 5HP,Troca de rolamento
+EQ1003,4,Fonte Industrial 24V,Ajuste de tensão
+EQ1004,5,Controlador PID,Reprogramação
+EQ1005,6,Servo Drive,Substituição de cabo
+EQ1006,7,Painel HMI,Atualização de firmware
+EQ1007,8,Bomba Hidráulica,Ruído excessivo
+EQ1008,9,Sensor Indutivo,Não detecta peça
+EQ1009,10,Esteira Automática,Correia gasta
